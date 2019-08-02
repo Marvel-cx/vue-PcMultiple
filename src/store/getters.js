@@ -1,0 +1,1 @@
+export const TestString = state => state.TestString
