@@ -4,6 +4,19 @@
 
 #axios的具体使用
 
+--后台接口地址 
+
+  后端数据提供
+
+  https://github.com/web-gm/axios_node_api，
+  
+  下载解压后在PowerShell中，
+  
+  1:npm install
+  
+  2:node index.js
+  
+
 #路由守卫
 
 #请求路由不正确时,报错页面
@@ -30,3 +43,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
